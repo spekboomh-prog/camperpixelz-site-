@@ -1,4 +1,1 @@
-git rm postcss.config.js
-git rm postcss.config.cjs
-git commit -m "fix config"
-git push
+module.exports = {};
