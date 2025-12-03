@@ -1,1 +1,1 @@
-// postcss disabled for now
+module.exports = {};
