@@ -1,6 +1,9 @@
+/* Minimal CSS — no Tailwind, no PostCSS */
 body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
   background: #f8fafc;
+  color: #062F4F;
 }
+a { color: #0ea5e9; }
